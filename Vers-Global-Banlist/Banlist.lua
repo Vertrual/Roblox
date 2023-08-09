@@ -1,10 +1,1 @@
-return {
-	exploiting = {
-		[274293901] = "test",
-		[3854520408] = "Exploiting in Dahood",
-	},
-	
-	unpleasant_user = {
-		[274293901] = "test",
-	},
-}
+{"exploiting":{"3854520408":"Exploiting in Dahood","274293901":"test"},"unpleasant_user":{"274293901":"test"}
